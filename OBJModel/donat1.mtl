@@ -1,0 +1,35 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl donut
+Ns 393.315626
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.215618 C:\\Users\\conqu\\Downloads\\donut_2.0\\textures\\donut_normal.png
+map_Kd C:\\Users\\conqu\\Downloads\\donut_2.0\\textures\\donut_baseColor.png
+
+newmtl icing
+Ns 245.097591
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.294055 0.482438
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl sprinkles_bake
+Ns 192.255528
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\conqu\\Downloads\\donut_2.0\\textures\\sprinkles_bake_baseColor.png
